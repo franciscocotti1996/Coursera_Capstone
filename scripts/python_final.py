@@ -1,3 +1,3 @@
 import numpy as nd
-import pandas as import pd
+import pandas as pd
 print("Hello Capstone Project Course!")
